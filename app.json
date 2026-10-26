@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Mi Tienda",
+    "slug": "parcial-mi-tienda-gonzalez",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "mitienda",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": false,
+    "plugins": [
+      "expo-router",
+      "expo-secure-store",
+      "expo-sqlite"
+    ]
+  }
+}

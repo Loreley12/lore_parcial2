@@ -1,0 +1,19 @@
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# Variables de entorno - NUNCA SUBIR .env al repositorio
+.env
+.env.local
+.env*.local
+
+# SO
+.DS_Store
+Thumbs.db
